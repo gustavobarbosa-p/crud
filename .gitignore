@@ -1,0 +1,6 @@
+/.venv
+/__pycache__
+banco_de_dados.bak
+banco_de_dados.dat
+banco_de_dados.dir
+main.py
