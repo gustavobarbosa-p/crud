@@ -5,7 +5,7 @@ class Lanche:
         self.preco = preco
 
     def __str__(self):
-        return f'{self.nome} custa R${self.preco} reais'
+        return f'{self.nome}-----R${self.preco} reais'
     
     def __repr__(self):
         return str(self)
