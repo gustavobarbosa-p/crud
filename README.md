@@ -7,8 +7,10 @@ Para rodar o programa, execute o arquivo <a href="https://github.com/gustavobarb
 ![image](https://user-images.githubusercontent.com/108037302/206921320-11c7e4e5-b351-4381-b55f-ddba5717455a.png)
 
 ## Tela de cadastro
-![image](https://user-images.githubusercontent.com/108037302/206921333-02a6657b-906f-4dde-bfb4-49f37a148979.png)
+![image](https://user-images.githubusercontent.com/108037302/210387710-e5a65e31-0eef-40ab-8529-588cf13a95d9.png)
 
-## Tela de listagem, busca e edição (a tela de edição é quase a mesma coisa da tela de cadastro)
-![image](https://user-images.githubusercontent.com/108037302/206921542-b49c18f4-11b0-45d3-b4df-d71d26905f7f.png)
+## Tela de listagem, busca e edição
+![image](https://user-images.githubusercontent.com/108037302/210387864-d1b31c8d-4935-4a8e-bd73-d3cd0742c431.png)
 
+## Tela de edição
+![image](https://user-images.githubusercontent.com/108037302/210388079-0a4e804d-8b54-4e34-ab84-ba4cde8c29d8.png)
